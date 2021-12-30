@@ -1,0 +1,10 @@
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\bin\Release\Piskvorky.exe.config
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\bin\Release\Piskvorky.exe
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\bin\Release\Piskvorky.pdb
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.csproj.AssemblyReference.cache
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.Properties.Resources.resources
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.csproj.GenerateResource.cache
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.csproj.CoreCompileInputs.cache
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.exe
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.pdb
+E:\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Doma\Piskvorky\obj\Release\Piskvorky.Form2.resources
