@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.AssemblyInfo.cs
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\Mala_Zkouska.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\Mala_Zkouska.deps.json
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\Mala_Zkouska.runtimeconfig.json
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\Mala_Zkouska.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\Mala_Zkouska.dll
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\ref\Mala_Zkouska.dll
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\bin\Debug\net5.0\Mala_Zkouska.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.dll
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\ref\Mala_Zkouska.dll
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.genruntimeconfig.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_Csharp\kurs\Mala_Zkouska\obj\Debug\net5.0\Mala_Zkouska.csproj.AssemblyReference.cache
